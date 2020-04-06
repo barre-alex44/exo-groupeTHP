@@ -1,4 +1,4 @@
-html {
+body {
     background-color: black;
 }
 
@@ -14,4 +14,8 @@ img {
     margin-right: auto;
     width: 50%;
     height: 50%;
+}
+
+.page-footer {
+    margin-top: 25px;
 }
