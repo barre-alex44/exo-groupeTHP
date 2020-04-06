@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 125px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
